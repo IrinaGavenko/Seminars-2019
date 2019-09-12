@@ -1,0 +1,13 @@
+table {
+     border-collapse: collapse;
+     width: 500px;
+ }
+
+ td {
+     border: solid 1px grey;
+ }
+
+ tr {
+     background: beige;
+     text-align: center;
+ }

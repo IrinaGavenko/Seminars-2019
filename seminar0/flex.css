@@ -1,0 +1,51 @@
+.App {
+    margin-left: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 800px;
+    width: 600px;
+}
+.item {
+    height: 70px;
+    width: 70px;
+    border: solid grey;
+    background: gainsboro;
+}
+.item:nth-child(3) {
+    height: 90px;
+    width: 50px;
+}
+.flexContainer1 {
+    border: solid 1px #222222;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.flexContainer2 {
+    border: solid 1px #222222;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.flexContainer3 {
+    border: solid 1px #222222;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+.flexContainer4 {
+    border: solid 1px #222222;
+    display: flex;
+    justify-content: space-between;
+}
+.flexContainer5 {
+    border: solid 1px #222222;
+    display: flex;
+    justify-content: space-around;
+}
+.flexContainer6 {
+    border: solid 1px #222222;
+    display: flex;
+    justify-content: space-evenly;
+}
