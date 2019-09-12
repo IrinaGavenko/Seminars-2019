@@ -7,8 +7,8 @@
 * ... прочие радости <br/>
 
 *примеры:* <br/>
-	<meta charset="utf-8"> <br/>
-  	<meta name="GENERATOR" content="Microsoft FrontPage 4.0"> <br/>
+* meta charset="utf-8" <br/>
+* meta name="GENERATOR" content="Microsoft FrontPage 4.0" <br/>
 
 ## HTML body/
 **div** -- универсальный блоковый компонент <br/>
